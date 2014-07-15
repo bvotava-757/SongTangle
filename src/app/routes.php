@@ -14,5 +14,6 @@
 Route::get('/', function()
 {
 	// will remove - brad created this
+	// will remove - alex created this
 	return View::make('hello');
 });
