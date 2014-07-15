@@ -47,8 +47,8 @@ return array(
 	'connections' => array(
 
 		'sqlite' => array(
-			'driver'   => 'sqlite',
-			'database' => __DIR__.'/../database/production.sqlite',
+			'driver'   => '',
+			'database' => '',
 			'prefix'   => '',
 		),
 
@@ -64,21 +64,21 @@ return array(
 		),
 
 		'pgsql' => array(
-			'driver'   => 'pgsql',
-			'host'     => 'localhost',
-			'database' => 'forge',
-			'username' => 'forge',
+			'driver'   => '',
+			'host'     => '',
+			'database' => '',
+			'username' => '',
 			'password' => '',
-			'charset'  => 'utf8',
+			'charset'  => '',
 			'prefix'   => '',
-			'schema'   => 'public',
+			'schema'   => '',
 		),
 
 		'sqlsrv' => array(
-			'driver'   => 'sqlsrv',
-			'host'     => 'localhost',
-			'database' => 'database',
-			'username' => 'root',
+			'driver'   => '',
+			'host'     => '',
+			'database' => '',
+			'username' => '',
 			'password' => '',
 			'prefix'   => '',
 		),
