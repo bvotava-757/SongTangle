@@ -57,7 +57,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'songtangle',
 			'username'  => 'root',
-			'password'  => 'Mk33pdt7g!',
+			'password'  => 'ratamacue',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
