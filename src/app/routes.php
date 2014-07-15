@@ -13,5 +13,6 @@
 
 Route::get('/', function()
 {
+	// will remove
 	return View::make('hello');
 });
