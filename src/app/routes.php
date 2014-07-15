@@ -13,6 +13,6 @@
 
 Route::get('/', function()
 {
-	// will remove
+	// will remove - brad created this
 	return View::make('hello');
 });
