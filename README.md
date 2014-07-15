@@ -9,10 +9,6 @@ SongTangle is a web application developed with Laravel by lxndrtsh. The site is 
 
 Please watch this repository for updates on the status of the project.
 
-## Official Documentation
-
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
-
 ### Contributing To SongTangle
 
 **All issues and pull requests should be filed on the [lxndrtsh/songtangle](http://github.com/lxndrtsh/SongTangle) repository.**
